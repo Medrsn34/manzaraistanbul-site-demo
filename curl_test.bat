@@ -1,0 +1,1 @@
+curl -s --connect-timeout 10 ftp://manzaraistanbul.com.tr --user "c9536ad3:*f&-2O%tr+Y~$s_z" -l

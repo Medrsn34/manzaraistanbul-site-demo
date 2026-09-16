@@ -1,0 +1,22 @@
+{
+  "name": "manzaraistanbul",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fix_switcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "basic-ftp": "^6.2.1",
+    "cheerio": "^1.2.0",
+    "sharp": "^0.35.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.3.3",
+    "tailwindcss": "^4.3.3"
+  }
+}
